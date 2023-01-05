@@ -1,0 +1,21 @@
+{
+  "name": "RAJKUMAR K",
+  "contact": {
+    "email": "[rajkumar4129960@gmail.com]",
+    "phone": "9176176189"
+  },
+  "workExperience": [
+    {
+      "title": "executive",
+      "company": "VVD",
+      "dates": "Jan 2020 - Present"
+    },
+     ],
+  "education": [
+    {
+      "degree": "BSC in chemistry",
+      "university": "Madras University",
+      "dates": "Sep 2016 - May 2019"
+    }
+  ]
+}
